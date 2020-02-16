@@ -1,8 +1,0 @@
-Lista de Filmes Exigidos para a Disciplina de Sistemas Operacionais
-
-História Unix - https://www.youtube.com/watch?v=OcayT2bVC0U
-História Unix II - https://www.youtube.com/watch?v=IOeOhAEH9ls
-História Unix III - https://www.youtube.com/watch?v=Ln_ALBW9vZQ
-Comentário sobre o filme exibido em sala - https://www.youtube.com/watch?v=VULq1mXJY2E
-Revolution OS - Documentário sobre Linux (legendado) - https://www.youtube.com/watch?v=plMxWpXhqig&t=202s
-Documentário - InProprietário o Mundo do Software Livre - https://www.youtube.com/watch?v=nVJyHQU7j_Q
