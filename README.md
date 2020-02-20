@@ -1,2 +1,4 @@
 # CCompUnipVargas
-Repositório com materiais do Curso de Ciência da Computação da Unip - Ribeirão Preto
+Repositório com arquivos das disciplinas do Curso de Ciência da Computação da Unip - Ribeirão Preto
+
+Sinta-se a vontade para usá-los como desejar.
