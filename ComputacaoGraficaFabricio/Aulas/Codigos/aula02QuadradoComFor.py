@@ -1,12 +1,13 @@
 import turtle
 lapis = turtle.Pen()
 
-""" for i in range(4):
+""" for i in range(4):   # desnhando quadrado simples
     lapis.forward(100)
     lapis.right(90)
-input() """
+input() """ 
 
-""" for i in range(4):
+# Desenhando dois quadrados separados
+""" for i in range(4): 
     lapis.forward(100)
     lapis.right(90)
 
@@ -19,6 +20,7 @@ for i in range(4):
     lapis.right(90)
 input() """
 
+# Desenhando dois quadrados separados, cada um de uma cor
 lapis.color("Red") # colocando cor na caneta
 for i in range(4):
     lapis.forward(100)
