@@ -1,0 +1,8 @@
+Exercícios 01 CG
+
+1- Fazer um programa para desenhar um quadrado de lado 50 em um lugar aleatório da tela
+2- Pintar 2 quadrados em lugares aleatórios
+3- Pintar um quadrado de verde e outro de vermelho
+pintar 3 quadrados
+4- Fazer uma rotina para desenhar quadrados
+5- Fazer rotinas para figuras a serem utilizadas no desenho de uma casa
