@@ -2,7 +2,7 @@ import turtle
 
 lapis = turtle.Turtle()
 
-lapis.forward(5*100)
+lapis.forward(100)
 lapis.left(120)
 lapis.forward(100)
 lapis.left(120)
